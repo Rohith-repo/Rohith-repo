@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Rohith!<br>I'm a 3rd-year student at KIT Kalaignar Karunanidhi Institute of Technology<br>Pursuing a B.Tech in AI & DS
+👋 Hi, I'm Rohith!<br>I'm a 3rd-year student at KIT Kalaignar Karunanidhi Institute of Technology<br>Pursuing a B.Tech in AI & DS.
 
 
 ## 🌐 Socials:
